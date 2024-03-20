@@ -1,0 +1,24 @@
+body{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-image: 3px;
+}
+h1{
+    margin-bottom: 100px;
+    color: white;
+    text-shadow: 5px 5px 5px red
+}
+h3{
+    margin-bottom: 100px;
+    color: white;
+    text-shadow: 5px 5px 5px red;
+}
+h2{
+    margin-bottom: 100px;
+    color: white;
+    text-shadow: 5px 5px 5px red;
+}
+p{
+    color: white;
+}
